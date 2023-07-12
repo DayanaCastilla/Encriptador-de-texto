@@ -1,13 +1,12 @@
 * {
-    background-color: #E5E5E5;
+    background-color: #FAF0D7;
     font-family: 'Inter';
    
 }
 
 #logo {
     width: 10%;
-    margin-left: 40px;
-    margin-top: 40px;
+    margin: 40px 0px 0px 40px;
 }
 
 main {
@@ -19,7 +18,6 @@ main {
     height: 75%;
     margin-top: 50px;
     margin-left: 200px;
-    flex: 3;
 }
 
 .texto-ingresado {
@@ -87,16 +85,9 @@ main {
 }
 
 .caja2 {
-    position: absolute;
-    width: 370px;
-    height: 618px;
-    top: 20px;
-    left: 950px;
-    bottom: 20px;
     background-color: #FFFFFF;
     box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
     border-radius: 32px;
-    flex: 1
 }
 
 #vista1 {
